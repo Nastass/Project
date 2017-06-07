@@ -1,0 +1,8 @@
+ѕолучение информации о самых попул€рных проектах python и javascript на  GitHub и обсуждений на Hacker News.
+јнализ того, какие темы на данный момент самые интересные и попул€рные.
+»нформаци€ обновл€етс€ вместе с изменени€ми сайта.
+hn_discussions.py самые активные обсуждени€ на Hacker News
+hn_submissions.py самые пул€рные стастьи на Hacker News  
+js_repos.py самые попул€рные проекты на javascript
+python_repos.py самые попул€ные проекты на python
+test_python_repos.py тест 
